@@ -1,2 +1,2 @@
 // ວາງ URL ຂອງ Google Apps Script (Web app) ຢູ່ບ່ອນນີ້
-const API_URL = "https://script.google.com/macros/s/AKfycbwpBOtmr1aD_jT3mPcj7u6mbgXiNWhbvzKJeJG0kPrazeZ1zKIfltJlGwtLt1eJRhYFUQ/exec";
+const API_URL = "PASTE_YOUR_APPS_SCRIPT_URL_HERE";

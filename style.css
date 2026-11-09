@@ -25,3 +25,6 @@ table{width:100%;border-collapse:collapse;background:#fff;border-radius:16px;ove
 details{background:#fff;border-radius:18px;padding:10px 14px;margin:8px 0}summary{cursor:pointer;font-weight:700}
 .chip2{display:inline-flex;gap:6px;align-items:center;background:var(--butter);border-radius:14px;padding:4px 10px;margin:3px}.chip2 a{cursor:pointer;color:#a33}
 #toast{position:fixed;bottom:20px;left:50%;transform:translate(-50%,80px);background:var(--dk);color:#fff;padding:10px 20px;border-radius:20px;transition:.3s;z-index:30}#toast.show{transform:translate(-50%,0)}
+.pi{height:1.5em;width:auto;vertical-align:middle}.tile .pi{width:60px;height:60px;object-fit:contain}.hl{height:84px;max-width:80%;object-fit:contain}#logo{height:36px;width:auto}
+#back .pi{height:1.2em}.ck{display:flex;align-items:center;gap:8px;font-weight:400;margin:6px 0;color:var(--ink)}.ck input{width:auto}
+.tw{overflow-x:auto}.dl2{cursor:pointer}
