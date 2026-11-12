@@ -28,3 +28,5 @@ details{background:#fff;border-radius:18px;padding:10px 14px;margin:8px 0}summar
 .pi{height:1.5em;width:auto;vertical-align:middle}.tile .pi{width:60px;height:60px;object-fit:contain}.hl{height:84px;max-width:80%;object-fit:contain}#logo{height:36px;width:auto}
 #back .pi{height:1.2em}.ck{display:flex;align-items:center;gap:8px;font-weight:400;margin:6px 0;color:var(--ink)}.ck input{width:auto}
 .tw{overflow-x:auto}.dl2{cursor:pointer}
+.pv{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}.pvi{position:relative}.pvi img{width:72px;height:72px;object-fit:cover;border-radius:14px}
+.pvi a{position:absolute;top:-6px;right:-6px;background:var(--peach);border-radius:50%;width:22px;height:22px;display:grid;place-items:center;cursor:pointer;font-size:.7rem}
